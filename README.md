@@ -12,3 +12,5 @@ then test out the repo by running:
 dotnet try verify
 
 dotnet try
+
+[Program.md](./Program.md)
